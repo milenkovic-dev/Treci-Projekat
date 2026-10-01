@@ -1,1 +1,3 @@
 Pozdrav ljudi, ovo su moje vezbe iz gita i githaba
+
+Ovo je druga promena
