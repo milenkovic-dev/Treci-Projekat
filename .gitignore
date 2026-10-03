@@ -1,1 +1,4 @@
 secret.txt
+/git_modules
+
+# U ovaom folderu se nalaze svi fajlovi koji su generisani od strane build procesa i ne bi trebali biti verzionisani 
